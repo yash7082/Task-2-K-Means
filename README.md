@@ -22,3 +22,12 @@ Data Normalization: Using StandardScaler to normalize the data ensures that each
 Determining Optimal Clusters: The find_optimal_clusters function uses both the Elbow Method and Silhouette Analysis to help decide the best number of clusters.
 Applying K-means Clustering: The optimal number of clusters is used to fit the K-means model. The cluster labels are then added to the original dataset.
 Results Analysis and Visualization: The clusters are analyzed and visualized to understand the customer segments. The final data with cluster labels can be saved for further use.
+
+
+
+
+
+Dataset :- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+
+
